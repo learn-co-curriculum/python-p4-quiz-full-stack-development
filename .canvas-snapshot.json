@@ -14,7 +14,7 @@
     "allowed_attempts": 3,
     "one_question_at_a_time": true,
     "question_count": 3,
-    "points_possible": 7.0,
+    "points_possible": 3.0,
     "cant_go_back": false,
     "access_code": null,
     "ip_filter": null,
@@ -71,7 +71,7 @@
     "only_visible_to_overrides": false,
     "assignment_group_id": 25106,
     "show_correct_answers_last_attempt": true,
-    "version_number": 3,
+    "version_number": 4,
     "has_access_code": false,
     "post_to_sis": false,
     "migration_id": null,
@@ -87,7 +87,7 @@
       "quiz_group_id": null,
       "assessment_question_id": 635936,
       "position": null,
-      "question_name": "Multiple Answers Question",
+      "question_name": "Question 1",
       "question_type": "multiple_answers_question",
       "question_text": "<p>What can you expect to work on when building a Full-Stack Application? Select\nall that apply:</p>",
       "points_possible": 1.0,
@@ -99,7 +99,7 @@
       "neutral_comments_html": "",
       "answers": [
         {
-          "id": 3445,
+          "id": "3445",
           "text": "",
           "comments": "",
           "comments_html": "",
@@ -107,7 +107,7 @@
           "html": "<p>Front end</p>"
         },
         {
-          "id": 8963,
+          "id": "8963",
           "text": "",
           "comments": "",
           "comments_html": "",
@@ -115,7 +115,7 @@
           "html": "<p>Back end</p>"
         },
         {
-          "id": 8401,
+          "id": "8401",
           "text": "",
           "comments": "",
           "comments_html": "",
@@ -123,7 +123,7 @@
           "html": "<p>Database</p>"
         },
         {
-          "id": 6843,
+          "id": "6843",
           "text": "",
           "comments": "",
           "comments_html": "<p>Be sure to study the source/s for this question. You'll get it next time.</p>",
@@ -144,7 +144,7 @@
       "quiz_group_id": null,
       "assessment_question_id": 635939,
       "position": null,
-      "question_name": "Multiple Choice Question",
+      "question_name": "Question 2",
       "question_type": "multiple_choice_question",
       "question_text": "<p>In React, let's say we want to make a request only once when the component is\nrendered? What hook do we use to do that?</p>",
       "points_possible": 1.0,
@@ -201,7 +201,7 @@
       "quiz_group_id": null,
       "assessment_question_id": 635934,
       "position": null,
-      "question_name": "Multiple Answers Question",
+      "question_name": "Question 3",
       "question_type": "multiple_answers_question",
       "question_text": "<p>What tools can we use to run a React and Flask servers together?</p>",
       "points_possible": 1.0,
@@ -213,7 +213,7 @@
       "neutral_comments_html": "<p><strong>Source/s:</strong></p><ul><li><a href=\"/courses/7560/assignments/263690\">Adding React to Flask, Part 2</a></li></ul><p></p>",
       "answers": [
         {
-          "id": 3282,
+          "id": "3282",
           "text": "",
           "comments": "",
           "comments_html": "",
@@ -221,7 +221,7 @@
           "html": "<p>Cors</p>"
         },
         {
-          "id": 6917,
+          "id": "6917",
           "text": "",
           "comments": "",
           "comments_html": "",
@@ -229,7 +229,7 @@
           "html": "<p>Honcho</p>"
         },
         {
-          "id": 5274,
+          "id": "5274",
           "text": "",
           "comments": "",
           "comments_html": "",
