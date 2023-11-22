@@ -13,7 +13,7 @@
     "scoring_policy": "keep_highest",
     "allowed_attempts": 3,
     "one_question_at_a_time": true,
-    "question_count": 1,
+    "question_count": 3,
     "points_possible": 7.0,
     "cant_go_back": false,
     "access_code": null,
@@ -81,63 +81,6 @@
     ]
   },
   "questions": [
-    {
-      "id": 369044,
-      "quiz_id": 53894,
-      "quiz_group_id": null,
-      "assessment_question_id": 635934,
-      "position": null,
-      "question_name": "Multiple Answers Question",
-      "question_type": "multiple_answers_question",
-      "question_text": "<p>What tools can we use to run a React and Flask servers together?</p>",
-      "points_possible": 1.0,
-      "correct_comments": "",
-      "incorrect_comments": "",
-      "neutral_comments": "",
-      "correct_comments_html": "",
-      "incorrect_comments_html": "",
-      "neutral_comments_html": "<p><strong>Source/s:</strong></p><ul><li><a href=\"/courses/7560/assignments/263690\">Adding React to Flask, Part 2</a></li></ul><p></p>",
-      "answers": [
-        {
-          "id": 3282,
-          "text": "",
-          "comments": "",
-          "comments_html": "",
-          "weight": 100.0,
-          "html": "<p>Cors</p>"
-        },
-        {
-          "id": 6917,
-          "text": "",
-          "comments": "",
-          "comments_html": "",
-          "weight": 100.0,
-          "html": "<p>Honcho</p>"
-        },
-        {
-          "id": 5274,
-          "text": "",
-          "comments": "",
-          "comments_html": "",
-          "weight": 0.0,
-          "html": "<p>npm</p>"
-        },
-        {
-          "id": "1547",
-          "text": "",
-          "comments": "",
-          "comments_html": "<p>Be sure to study the source/s for this question. You'll get it next time.</p>",
-          "weight": 0.0,
-          "html": "<p>I don't know.</p>"
-        }
-      ],
-      "variables": null,
-      "formulas": null,
-      "answer_tolerance": null,
-      "formula_decimal_places": null,
-      "matches": null,
-      "matching_answer_incorrect_matches": null
-    },
     {
       "id": 369046,
       "quiz_id": 53894,
@@ -243,6 +186,63 @@
           "comments": "",
           "comments_html": "<p>Be sure to study the source/s for this question. You'll get it next time.</p>",
           "weight": 0.0
+        }
+      ],
+      "variables": null,
+      "formulas": null,
+      "answer_tolerance": null,
+      "formula_decimal_places": null,
+      "matches": null,
+      "matching_answer_incorrect_matches": null
+    },
+    {
+      "id": 369044,
+      "quiz_id": 53894,
+      "quiz_group_id": null,
+      "assessment_question_id": 635934,
+      "position": null,
+      "question_name": "Multiple Answers Question",
+      "question_type": "multiple_answers_question",
+      "question_text": "<p>What tools can we use to run a React and Flask servers together?</p>",
+      "points_possible": 1.0,
+      "correct_comments": "",
+      "incorrect_comments": "",
+      "neutral_comments": "",
+      "correct_comments_html": "",
+      "incorrect_comments_html": "",
+      "neutral_comments_html": "<p><strong>Source/s:</strong></p><ul><li><a href=\"/courses/7560/assignments/263690\">Adding React to Flask, Part 2</a></li></ul><p></p>",
+      "answers": [
+        {
+          "id": 3282,
+          "text": "",
+          "comments": "",
+          "comments_html": "",
+          "weight": 100.0,
+          "html": "<p>Cors</p>"
+        },
+        {
+          "id": 6917,
+          "text": "",
+          "comments": "",
+          "comments_html": "",
+          "weight": 100.0,
+          "html": "<p>Honcho</p>"
+        },
+        {
+          "id": 5274,
+          "text": "",
+          "comments": "",
+          "comments_html": "",
+          "weight": 0.0,
+          "html": "<p>npm</p>"
+        },
+        {
+          "id": "1547",
+          "text": "",
+          "comments": "",
+          "comments_html": "<p>Be sure to study the source/s for this question. You'll get it next time.</p>",
+          "weight": 0.0,
+          "html": "<p>I don't know.</p>"
         }
       ],
       "variables": null,
